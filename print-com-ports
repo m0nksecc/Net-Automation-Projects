@@ -1,0 +1,3 @@
+#Idea is for computer to detect that a serial device was inserted and run the following cmds by creating a .bat or .cmd file.
+mode
+ch
